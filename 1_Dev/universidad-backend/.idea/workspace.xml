@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6bdd2d98-f5ce-4a00-86a0-5a84894f328d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/hwong/Downloads/RepositorioDec-DevOps-main/1_Dev/universidad-backend" value="3LhC96Z42kQfRO2NHQTqhhwLRqL" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="27" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3911945699698443" />
+      <entry key="MS500" value="5.012260052530332" />
+      <entry key="S2" value="12.93141137669263" />
+      <entry key="S5" value="18.221386996107594" />
+      <entry key="S10" value="21.033607466964" />
+      <entry key="S30" value="33.08368580599312" />
+      <entry key="S60" value="50.177066043985214" />
+      <entry key="M2" value="68.88603022179709" />
+      <entry key="M5" value="115.15109819413696" />
+      <entry key="M10" value="198.31654811411258" />
+      <entry key="M15" value="260.7769354096579" />
+      <entry key="M30" value="361.19467891497544" />
+      <entry key="H1" value="433.2602486348401" />
+      <entry key="H2" value="476.6845633244456" />
+      <entry key="H4" value="500.55494281436" />
+      <entry key="D1" value="521.6451793117076" />
+      <entry key="W1" value="525.3750290099923" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3207531759757747" />
+      <entry key="MS500" value="4.967475683501838" />
+      <entry key="S2" value="12.90286962932577" />
+      <entry key="S5" value="18.20529017702111" />
+      <entry key="S10" value="21.024306660453995" />
+      <entry key="S30" value="33.078680540889394" />
+      <entry key="S60" value="50.17316339357923" />
+      <entry key="M2" value="68.88278380577152" />
+      <entry key="M5" value="115.14670950880628" />
+      <entry key="M10" value="198.31183670062998" />
+      <entry key="M15" value="260.77270083960235" />
+      <entry key="M30" value="361.19175896176705" />
+      <entry key="H1" value="433.25851903984795" />
+      <entry key="H2" value="476.6836199424716" />
+      <entry key="H4" value="500.55444987787905" />
+      <entry key="D1" value="521.6450940584746" />
+      <entry key="W1" value="525.3750167531257" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LhC8xSu41tjvI5zjTQjLuVw8cY" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AlumnoControllerTest.executor": "Run",
+    "JUnit.AlumnoServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.UniversidadBackendApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.UniversidadBackendApplication">
+    <configuration name="AlumnoControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="universidad-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwongu.unit.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hwongu.unit.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.hwongu.unit.controller.AlumnoControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlumnoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="universidad-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwongu.unit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hwongu.unit.service" />
+      <option name="MAIN_CLASS_NAME" value="com.hwongu.unit.service.AlumnoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversidadBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="universidad-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hwongu.UniversidadBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlumnoServiceTest" />
+        <item itemvalue="JUnit.AlumnoControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdd2d98-f5ce-4a00-86a0-5a84894f328d" name="Changes" comment="" />
+      <created>1793896757233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793896757233</updated>
+      <workItem from="1793896760517" duration="1918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
